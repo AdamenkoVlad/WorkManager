@@ -1,0 +1,15 @@
+D:\Analyzer\x64\Debug\Analyzer.vcxproj.AssemblyReference.cache
+D:\Analyzer\x64\Debug\Analyzer.AboutForm.resources
+D:\Analyzer\x64\Debug\Analyzer.MyForm.resources
+D:\Analyzer\x64\Debug\Analyzer.vcxproj.GenerateResource.cache
+D:\Analyzer\x64\Debug\Analyzer.exe
+C:\Users\Адмін\Desktop\Analyzer\x64\Debug\Analyzer.vcxproj.AssemblyReference.cache
+C:\Users\Адмін\Desktop\Analyzer\x64\Debug\Analyzer.MyForm.resources
+C:\Users\Адмін\Desktop\Analyzer\x64\Debug\Analyzer.vcxproj.GenerateResource.cache
+C:\Users\Адмін\Desktop\Analyzer\x64\Debug\Analyzer.exe
+C:\Users\Адмін\Desktop\Analyzer\x64\Debug\Analyzer.AboutForm1.resources
+C:\Users\Адмін\Desktop\WorkManager\x64\Debug\Analyzer.vcxproj.AssemblyReference.cache
+C:\Users\Адмін\Desktop\WorkManager\x64\Debug\Analyzer.AboutForm1.resources
+C:\Users\Адмін\Desktop\WorkManager\x64\Debug\Analyzer.MyForm.resources
+C:\Users\Адмін\Desktop\WorkManager\x64\Debug\Analyzer.vcxproj.GenerateResource.cache
+C:\Users\Адмін\Desktop\WorkManager\x64\Debug\WorkManager.exe

@@ -1,0 +1,10 @@
+﻿D:\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Analyzer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AboutForm.cpp
+  AboutForm1.cpp
+  AboutForm2.cpp
+  Main.cpp
+  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  AboutForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Analyzer.vcxproj -> C:\Users\Адмін\Desktop\WorkManager\x64\Debug\WorkManager.exe
